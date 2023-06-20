@@ -20,15 +20,15 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 
 # Distributions
 
-### Gender in the dataset
+### Gender of people in the dataset
 
 ![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/43882f2b-e8e2-439a-9f6a-a13051124541)
 
-### Countries in the dataset
+### Countries of people in the dataset
 
 ![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/9a183127-116c-47c5-8702-b0576745edf4)
 
-### Regions in the dataset
+### Regions of people in the dataset
 
 ![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/6fa09600-c1db-4376-8a75-3c813f4146ff)
 
@@ -36,7 +36,7 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 
 ![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/b39e02e5-9e3b-427f-bb4d-8d1a8563e559)
 
-### Phone model
+### Phone model of people in the dataset
 
 | Brand | % |
 | --- | --- |
