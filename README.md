@@ -90,4 +90,11 @@ This is just an example of the data. If you need access to the entire dataset, c
 
 ![live_video (2) (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/b992396a-a5d5-42fd-86bb-e12d8624c7d8)
 
+# Links
+| Resource | Link |
+| --- | --- |
+| TrainingData.pro | https://trainingdata.pro/data-market?utm_source=github |
+| TrainingData.solutions | https://trainingdata.solutions/data-market?utm_source=github |
+| Kaggle | https://www.kaggle.com/trainingdatapro |
+| HuggingFace | https://huggingface.co/TrainingDataPro |
 
