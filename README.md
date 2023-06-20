@@ -12,10 +12,6 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 ### People in the dataset
 ![Desktop - 1](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/e699fc8c-4194-4222-86ab-17a3107e34a7)
 
-
-# Get the Dataset
-This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **https://trainingdata.pro/data-market?utm_source=kaggle**
-
 ### The dataset includes 2 different types of files:
 - **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
 - **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.
@@ -37,6 +33,10 @@ includes the following information for each media file:
 - **selfie_file_type**: the type of the photo,
 - **video_file_type**: the type of the video
 
-**[TrainingData](https://trainingdata.pro/data-market?utm_source=kaggle)** provides high-quality data annotation tailored to your needs.
+# Get the Dataset
+This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **https://trainingdata.pro/data-market?utm_source=github**
+
+
+![live_video (2) (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/b992396a-a5d5-42fd-86bb-e12d8624c7d8)
 
 
