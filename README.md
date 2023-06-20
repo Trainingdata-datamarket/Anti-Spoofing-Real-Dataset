@@ -4,6 +4,7 @@ We introduce a large image dataset Anti Spoofing Real for training a neural netw
 The dataset consists of 44,832 videos and selfies from 37,980 unique people from 170 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
 - People from 18 to 94 age old are presented in the dataset.
+- For each person in the dataset age, country, gender and phone model is presented.
 - The data was mostly (approximately **90%**) collected indoor, however there are also selfies and videos made outdoors.
 - The lighting is artificial in **80%** of cases,  **5%** natural daily lightning, **5%** evening outdoor lighting, **10%** - dark indoor lighting.
 - People turn their heads, videos and photos are filmed so that the head takes up at least 1/2 of the frame.
@@ -11,6 +12,50 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 
 ### People in the dataset
 ![Desktop - 1](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/e699fc8c-4194-4222-86ab-17a3107e34a7)
+
+# Distributions
+**Gender in the dataset**
+![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/43882f2b-e8e2-439a-9f6a-a13051124541)
+
+**Countries in the dataset**
+![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/9a183127-116c-47c5-8702-b0576745edf4)
+
+**Regions in the dataset**
+![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/6fa09600-c1db-4376-8a75-3c813f4146ff)
+
+**Age of people in the dataset**
+![image](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/b39e02e5-9e3b-427f-bb4d-8d1a8563e559)
+
+**Phone model**
+| Brand | % |
+| --- | --- |
+| Samsung | 21,99% |
+| iPhone | 18,04% |
+| Xiaomi | 15,54% |
+| Infinix | 5,12% |
+| Huawei | 4,97% |
+| Oppo | 4,73% |
+| Tecno | 4,67% |
+| Vivo | 4,46% |
+| Motorola | 4,23% |
+| RealMe | 3,57% |
+| Honor | 2,32% |
+| Itel | 0,94% |
+| LG | 0,94% |
+| Nokia | 0,63% |
+| OnePlus | 0,60% |
+| ZTE | 0,35% |
+| Alcatel | 0,23% |
+| Asus | 0,23% |
+| Google | 0,15% |
+| Umidigi | 0,15% |
+| Lenovo | 0,12% |
+| Sony | 0,09% |
+| Spark | 0,09% |
+| Hisense | 0,07% |
+| iPad | 0,04% |
+| Ulefone | 0,03% |
+
 
 ### The dataset includes 2 different types of files:
 - **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
