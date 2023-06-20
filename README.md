@@ -3,6 +3,10 @@ We introduce a large image dataset Anti Spoofing Real for training a neural netw
 
 The dataset consists of 44,832 videos and selfies from 37,980 unique people from 170 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
+### The dataset includes 2 different types of files:
+- **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
+- **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.
+
 - People from 18 to 94 age old are presented in the dataset.
 - For each person in the dataset age, country, gender and phone model is presented.
 - The data was mostly (approximately **90%**) collected indoor, however there are also selfies and videos made outdoors.
@@ -61,11 +65,6 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 | Hisense | 0,07% |
 | iPad | 0,04% |
 | Ulefone | 0,03% |
-
-
-### The dataset includes 2 different types of files:
-- **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
-- **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.
 
 # Content
 ### The folder **"samples"** includes 30 folders:
