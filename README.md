@@ -9,15 +9,15 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 - People turn their heads, videos and photos are filmed so that the head takes up at least 1/2 of the frame.
 - Distance from the camera is approximately 30 centimeters.
 
-### The dataset includes 2 different types of files:
-- **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
-- **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.
-
 ### Image
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2F0956f7614a7de991459b5bacc8e30688%2Fanti.png?generation=1685093697311106&alt=media)
 
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **https://trainingdata.pro/data-market?utm_source=kaggle**
+
+### The dataset includes 2 different types of files:
+- **Photo** - a selfie of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
+- **Video** - filmed on the front camera, on which a person moves his/her head left, right, up and down. Duration of the video is from 10 to 20 seconds.
 
 # Content
 ### The folder **"samples"** includes 30 folders:
