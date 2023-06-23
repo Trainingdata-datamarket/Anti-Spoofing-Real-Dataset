@@ -1,4 +1,12 @@
 # Anti Spoofing Real Dataset
+1. [ About the dataset ](#about)
+2. [ Distributions ](#dist)
+3. [ Content ](#cont)
+4. [ Get the Dataset ](#getdat)
+5. [ Links ](#link)
+
+<a name="about"></a>
+# About the dataset
 We introduce a large image dataset Anti Spoofing Real for training a neural network to repel various attacks on biometric access systems. The dataset consists of selfie photos and selfie videos of people. "Anti Spoofing Real Dataset" solves the tasks of training algorithms to distinguish real users from scammers. Proposed dataset allows to build identity recognition systems, which can be used to develop anti-spoofing solutions, such as countermeasures and system configurations that can help make authentication systems more secure.
 
 The dataset consists of 44,832 videos and selfies from 37,980 unique people from 170 countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
@@ -18,6 +26,7 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 ### People in the dataset
 ![Desktop - 1](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/e699fc8c-4194-4222-86ab-17a3107e34a7)
 
+<a name="dist"></a>
 # Distributions
 
 ### Gender of people in the dataset
@@ -67,6 +76,7 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 | iPad | 0,04% |
 | Ulefone | 0,03% |
 
+<a name="cont"></a>
 # Content
 ### The folder **"samples"** includes 30 folders:
 - corresponding to each person in the sample
@@ -84,12 +94,14 @@ includes the following information for each media file:
 - **selfie_file_type**: the type of the photo,
 - **video_file_type**: the type of the video
 
+<a name="getdat"></a>
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **https://trainingdata.pro/data-market?utm_source=github**
 
 
 ![live_video (2) (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/b992396a-a5d5-42fd-86bb-e12d8624c7d8)
 
+<a name="link"></a>
 # Links
 | Resource | Link |
 | --- | --- |
