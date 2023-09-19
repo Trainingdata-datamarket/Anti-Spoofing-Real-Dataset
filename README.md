@@ -24,7 +24,7 @@ The dataset consists of 44,832 videos and selfies from 37,980 unique people from
 - Distance from the camera is approximately 30 centimeters.
 
 ### People in the dataset
-![Desktop - 1](https://github.com/trainingdata-pro/Anti-Spoofing-Real-Dataset/assets/113421352/e699fc8c-4194-4222-86ab-17a3107e34a7)
+![Frame 17](https://github.com/Trainingdata-datamarket/Anti-Spoofing-Real-Dataset/assets/113421352/afc6d10b-b52c-4c4f-90dd-281a9220099e)
 
 <a name="dist"></a>
 # Distributions
